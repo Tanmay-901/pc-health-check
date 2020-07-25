@@ -1,3 +1,8 @@
+# Check pc health status
+# For a stable system,
+# free space should be > 20% and,
+# disk usage should be < 75%
+
 import shutil
 import psutil
 
