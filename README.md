@@ -1,5 +1,5 @@
---------------------------------------To install psutil manually, run command=> pip install psutil    ----------------
 # pc-health-check\n  
+To install psutil manually, run command &#8594; `pip install psutil`  
 * Check your pc disk usage and free space\n  
 * For the program to run, 'psutil' module need to be installed on your system.  
 * To install psutil manually, run command "pip install psutil"  
