@@ -20,7 +20,7 @@ def check_cpu_usage():
 
 a = check_disk_usage("/")
 b = check_cpu_usage()
-if a > 20 or b < 75:
+if a > 20 and b < 75:
     print("Pc is stable \nfree space: {:.2f}% \nCPU usage: {:.2f}%".format(a,b))
 else:
     print("Error!!!\nAction required \nfree space: {:.2f}% \nCPU usage: {:.2f}%".format(a, b))
