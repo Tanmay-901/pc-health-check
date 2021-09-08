@@ -6,5 +6,5 @@ To install psutil manually, run command &#8594; `pip install psutil`
 * 'shutil' module already comes with python so no need to install it separately.  
 * Now simply run the program on your local python interpreter or on command line/cmd/terminal  
 * The program will pause for a second to take readings from your system and then show the current status  
-* of the average disk usage and free space.  
+  of the average disk usage and free space.  
 * More features will be added soon.  
